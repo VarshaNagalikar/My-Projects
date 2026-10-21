@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+instance/
+bugpilot.db
+.env
+.pytest_cache/
